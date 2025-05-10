@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "npm i",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"No tests specified. Skipping...\"",
+    "build": "echo \"No build step needed for backend\""
   },
   "author": "",
   "license": "ISC",
